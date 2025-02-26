@@ -18,6 +18,11 @@ E: Margem Esquerda <br>
 D: Margem Direita <br>
 B: Barco (que pode levar de 1 a 2 pessoas)** <br>
 
+![image](https://github.com/user-attachments/assets/2c008358-75a3-4a29-b893-7f477db9bfc6)
+
+
+
+
 
 
 
