@@ -80,6 +80,9 @@ O problema é qual a sequência de travessia para que o tempo total seja no máx
 
 Contudo, para cruzar a ponte é preciso usar uma lanterna e no máximo duas pessoas podem cruzar a ponte. Qualquer pessoa cruzando a ponte precisa segurar a lanterna.
 
+![image](https://github.com/user-attachments/assets/36572034-6cdc-48a5-b87f-47d557286a7f)
+
+
 <h2>Resolução</h2>
 
 1. **Aluno e Professora atravessam juntos** → (2 minutos)
