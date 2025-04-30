@@ -1,3 +1,5 @@
+%Variaveis sempre em MAIUSCULA
+
 %fatos ou verdades
 nasceuEm("Matheus","Pelotas").
 nasceuEm("Julian","Santa Maria").
