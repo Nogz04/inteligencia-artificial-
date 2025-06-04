@@ -6,4 +6,8 @@
 
 ## Como se treina uma Rede Neural?
 
-> Enviar amostras
+> Enviar amostras, visão computacional
+
+## Qual a área de IA que trabalha com diagnóstico?
+
+> Redes Neurais
